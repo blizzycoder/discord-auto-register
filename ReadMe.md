@@ -52,4 +52,5 @@ Saves account details to text files
 Captures screenshots for manual captcha solving
 
 📄 License
+
 Feel free to use, modify, or learn from this code. All the code is in main.py - you can study it or adapt it for your needs.
